@@ -1,3 +1,4 @@
+socks5://29490430-zone-custom-region-US-sessid-CtiQiNHm:VaDL54H0@us.922s5.net:6300
 socks5://grassid2-zone-custom-region-US-sessid-bwtUivEI-sessTime-120:grassid2@f.proxys5.net:6200
 socks5://grassid2-zone-custom-region-US-sessid-th31KC6P-sessTime-120:grassid2@f.proxys5.net:6200
 socks5://grassid2-zone-custom-region-US-sessid-BLOxETsI-sessTime-120:grassid2@f.proxys5.net:6200
